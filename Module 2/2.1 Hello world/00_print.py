@@ -1,0 +1,2 @@
+# LAB
+print("Hello, Python!")
